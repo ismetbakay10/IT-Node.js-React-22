@@ -1,0 +1,27 @@
+{
+  "name": "calculator",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "4 arithmetic operations",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismetbakay10/IT-Node.js-React-22.git"
+  },
+  "keywords": [
+    "addition",
+    "extraction",
+    "multiplication",
+    "division"
+  ],
+  "author": "Ismet.Bakay@hicoders.ch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ismetbakay10/IT-Node.js-React-22/issues"
+  },
+  "homepage": "https://github.com/ismetbakay10/IT-Node.js-React-22#readme"
+}
